@@ -6,10 +6,10 @@ title: About Me
 
 My name is Eunchong Yu, and usually known as *Kroisse*. I'm a software developer interested in web development, asynchronous programming, programming language design, and other stuff.
 
-I'm currently living in Seoul and working for [SMARTSTUDY Corp.][SMARTSTUDY].
+I'm currently living in Seoul and working for [SMARTSTUDY Corp.][].
 
 
-[SMARTSTUDY]: http://www.smartstudy.co.kr/
+[SMARTSTUDY Corp.]: http://www.smartstudy.co.kr/
 
 
 You can find my profile in these sites:
