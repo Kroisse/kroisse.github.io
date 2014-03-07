@@ -18,8 +18,9 @@ You can find my profile in these sites:
 - [GitHub](https://github.com/Kroisse)
 - [Bitbucket](https://bitbucket.org/kroisse)
 - [Stack Overflow](http://stackoverflow.com/users/676818/kroisse)
+- [Delicious](https://delicious.com/kroisse)
 - [Facebook](https://www.facebook.com/eunchong.yu)
-- [Google+](https://plus.google.com/115908693376173457786)
+- [Google+](https://plus.google.com/+EunchongYu)
 - [Last.fm](http://www.last.fm/user/Kroisse)
 
 
