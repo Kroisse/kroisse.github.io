@@ -19,7 +19,6 @@ You can find my profile in these sites:
 - [Bitbucket](https://bitbucket.org/kroisse)
 - [Stack Overflow](http://stackoverflow.com/users/676818/kroisse)
 - [Facebook](https://www.facebook.com/eunchong.yu)
-- [Twitter](https://twitter.com/eunchong_yu)
 - [Google+](https://plus.google.com/115908693376173457786)
 - [Last.fm](http://www.last.fm/user/Kroisse)
 
