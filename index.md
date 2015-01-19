@@ -9,8 +9,9 @@ My name is Eunchong Yu, and usually known as *Kroisse*. I'm a software developer
 
 You can find my profile in these sites:
 
+- [Materialistic](http://blog.materialistic.kr/) (Korean blog)
+
 - [Keybase](https://keybase.io/kroisse)
-- [Materialistic](http://blog.materialistic.kr/) (blog)
 - [GitHub](https://github.com/Kroisse)
 - [Bitbucket](https://bitbucket.org/kroisse)
 - [Stack Overflow](http://stackoverflow.com/users/676818/kroisse)
